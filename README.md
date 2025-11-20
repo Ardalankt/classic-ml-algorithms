@@ -48,6 +48,9 @@ Run:
 cd character-xo
 python3 main.py
 ```
+<img width="594" height="226" alt="Screenshot 2025-11-20 at 10 31 45" src="https://github.com/user-attachments/assets/4f480247-8017-48be-b04f-bffd493a5948" />
+
+<img width="595" height="226" alt="Screenshot 2025-11-20 at 10 32 08" src="https://github.com/user-attachments/assets/5459c269-fb59-40b0-94be-23e726831cd5" />
 
 ---
 
